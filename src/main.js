@@ -3,7 +3,7 @@ const sumar = (a, b) => {
 }
 
 const saludar = (str) =>{
-  return ` Bienvenido ${str};`
+  return ` Hola bienvenido:  ${str};`
 }
 
 const imprimirNumeros = () => {
@@ -14,6 +14,6 @@ const imprimirNumeros = () => {
 
 alert( saludar('Yair') );
 
-console.log( "Resultado",  sumar(2, 5));
+console.log( "Resultado de sumar 2 y 5 =  ",  sumar(2, 5));
 
 imprimirNumeros();
