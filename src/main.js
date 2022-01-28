@@ -12,7 +12,7 @@ const imprimirNumeros = () => {
   array.forEach( ele => console.log(ele) );
 }
 
-const funcionNuevaMaster() => {
+const funcionNuevaMaster = () => {
   return "Hola soy nueva funcion desde master";
 }
 
