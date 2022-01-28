@@ -1,0 +1,3 @@
+# EjercicioGit
+
+Creado readme.
